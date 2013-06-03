@@ -1,3 +1,10 @@
-A quick attempt at a url shortener. 
+Amoeba was an attempt at using Redis as the backend for a url shortener.
 
-Feel free to reuse and redistribute this.
+It generates and keeps a running count of clicks on your urls. Most of the data
+can be accessed through its API.
+
+Work in progress, and not much to look at.
+
+TODO
+ - Track IP
+ - Track User-Agent
